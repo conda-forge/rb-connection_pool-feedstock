@@ -1,5 +1,5 @@
 {% set name = "connection_pool" %}
-{% set version = "2.4.1" %}
+{% set version = "2.5.2" %}
 
 package:
   name: rb-{{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://rubygems.org/downloads/{{ name }}-{{ version }}.gem
-    sha256: 0f40cf997091f1f04ff66da67eabd61a9fe0d4928b9a3645228532512fab62f4
+    sha256: c121d090f8217911f960c7b628bf2bf1b1444f284fd854edc188821c4f602108
 
 build:
   noarch: generic
