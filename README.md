@@ -31,7 +31,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-rb--connection_pool-green.svg)](https://anaconda.org/conda-forge/rb-connection_pool) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/rb-connection_pool.svg)](https://anaconda.org/conda-forge/rb-connection_pool) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/rb-connection_pool.svg)](https://anaconda.org/conda-forge/rb-connection_pool) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/rb-connection_pool.svg)](https://anaconda.org/conda-forge/rb-connection_pool) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-rb--connection__pool-green.svg)](https://anaconda.org/conda-forge/rb-connection_pool) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/rb-connection_pool.svg)](https://anaconda.org/conda-forge/rb-connection_pool) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/rb-connection_pool.svg)](https://anaconda.org/conda-forge/rb-connection_pool) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/rb-connection_pool.svg)](https://anaconda.org/conda-forge/rb-connection_pool) |
 
 Installing rb-connection_pool
 =============================
@@ -99,7 +99,7 @@ available continuous integration services. Thanks to the awesome service provide
 [CircleCI](https://circleci.com/), [AppVeyor](https://www.appveyor.com/),
 [Drone](https://cloud.drone.io/welcome), and [TravisCI](https://travis-ci.com/)
 it is possible to build and upload installable packages to the
-[conda-forge](https://anaconda.org/conda-forge) [Anaconda-Cloud](https://anaconda.org/)
+[conda-forge](https://anaconda.org/conda-forge) [anaconda.org](https://anaconda.org/)
 channel for Linux, Windows and OSX respectively.
 
 To manage the continuous integration and simplify feedstock maintenance
